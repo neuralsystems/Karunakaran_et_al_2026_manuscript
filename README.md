@@ -3,7 +3,7 @@ ________________________________________________________________________________
 
 Steps to successfully run the provided code and generate results and figures:
 
-1. Download motion-corrected calcium imaging imaging data here:
+1. Download motion-corrected calcium imaging imaging data here: https://data.mendeley.com/datasets/5kwrbfy9kx/2
 
 2. Download this GitHub repository to your local machine and copy the downloaded data in step 1 inside this folder. Your folder structure should look like this:
 
@@ -17,6 +17,6 @@ Steps to successfully run the provided code and generate results and figures:
 		|_ LICENSE\
 		|_ .gitignore\
 
-3. Install these python libraries: tifffile, scipy, numpy, pandas, matplotlib, jupyterlab\
+3. Install these python libraries: tifffile, scipy, numpy, pandas, matplotlib, jupyterlab
 
-4. Open python terminal, navigate to the "Karunakaran_et_al_2026_manuscript" directory and open jupyter lab.\
+4. Open python terminal, navigate to the "Karunakaran_et_al_2026_manuscript" directory and open jupyter lab.
